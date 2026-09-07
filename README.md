@@ -4,4 +4,4 @@ The explore view plots all 57 artists on one coordinate map. The horizontal axis
 
 The timetable view is one continuous grid from Thursday evening to Sunday afternoon. Tap a set to dim what you will skip, and you are able to save your schedule to your phone.
 
-Lineup and set times come from the official Sustain-Release announcements at sustain-release.com.
+Lineup and set times come from the official Sustain-Release announcements.
